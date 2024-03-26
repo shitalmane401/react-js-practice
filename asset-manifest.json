@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-js-practice/static/css/main.14d2af78.css",
-    "main.js": "/react-js-practice/static/js/main.560534ec.js",
+    "main.css": "/react-js-practice/static/css/main.3d5405ad.css",
+    "main.js": "/react-js-practice/static/js/main.a5d3f591.js",
     "static/js/787.52225e3f.chunk.js": "/react-js-practice/static/js/787.52225e3f.chunk.js",
     "static/media/bootstrap-icons.woff?": "/react-js-practice/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/react-js-practice/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/react-js-practice/index.html",
-    "main.14d2af78.css.map": "/react-js-practice/static/css/main.14d2af78.css.map",
-    "main.560534ec.js.map": "/react-js-practice/static/js/main.560534ec.js.map",
+    "main.3d5405ad.css.map": "/react-js-practice/static/css/main.3d5405ad.css.map",
+    "main.a5d3f591.js.map": "/react-js-practice/static/js/main.a5d3f591.js.map",
     "787.52225e3f.chunk.js.map": "/react-js-practice/static/js/787.52225e3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14d2af78.css",
-    "static/js/main.560534ec.js"
+    "static/css/main.3d5405ad.css",
+    "static/js/main.a5d3f591.js"
   ]
 }
